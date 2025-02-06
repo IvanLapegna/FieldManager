@@ -1,0 +1,673 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9030345C-BA93-4FBE-9785-63C88FB76360}|AuthMicroservice\\AuthMicroservice.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\authmicroservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9030345C-BA93-4FBE-9785-63C88FB76360}|AuthMicroservice\\AuthMicroservice.csproj|solutionrelative:authmicroservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\usecases\\authservices\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\usecases\\authservices\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\usecases\\authservices\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\usecases\\authservices\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\usecases\\authservices\\registeruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\usecases\\authservices\\registeruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9030345C-BA93-4FBE-9785-63C88FB76360}|AuthMicroservice\\AuthMicroservice.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\authmicroservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9030345C-BA93-4FBE-9785-63C88FB76360}|AuthMicroservice\\AuthMicroservice.csproj|solutionrelative:authmicroservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\usecases\\authservices\\cryptographyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\usecases\\authservices\\cryptographyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\usecases\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\usecases\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\usecases\\authservices\\signoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\usecases\\authservices\\signoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\usecases\\authservices\\passwordresetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\usecases\\authservices\\passwordresetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9030345C-BA93-4FBE-9785-63C88FB76360}|AuthMicroservice\\AuthMicroservice.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\authmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9030345C-BA93-4FBE-9785-63C88FB76360}|AuthMicroservice\\AuthMicroservice.csproj|solutionrelative:authmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|c:\\users\\ianga\\onedrive\\escritorio\\microservicio gabriel\\authms-password_restet_by_mail\\infrastructure\\query\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\query\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\infrastructure\\query\\refreshtokenquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\query\\refreshtokenquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\infrastructure\\query\\passwordresetquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\query\\passwordresetquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\interfaces\\query\\irefreshtokenquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\query\\irefreshtokenquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9030345C-BA93-4FBE-9785-63C88FB76360}|AuthMicroservice\\AuthMicroservice.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\authmicroservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9030345C-BA93-4FBE-9785-63C88FB76360}|AuthMicroservice\\AuthMicroservice.csproj|solutionrelative:authmicroservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7707A8ED-7F74-4605-AC1A-D65F95E5C24C}|Domain\\Domain.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\domain\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7707A8ED-7F74-4605-AC1A-D65F95E5C24C}|Domain\\Domain.csproj|solutionrelative:domain\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\infrastructure\\seeder\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\seeder\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7707A8ED-7F74-4605-AC1A-D65F95E5C24C}|Domain\\Domain.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7707A8ED-7F74-4605-AC1A-D65F95E5C24C}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\validations\\passwordchangerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\validations\\passwordchangerequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\validations\\refreshtokenrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\validations\\refreshtokenrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\validations\\userrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\validations\\userrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\validations\\signoutrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\validations\\signoutrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\validations\\userupdaterequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\validations\\userupdaterequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\dtos\\response\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\dtos\\response\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\dtos\\request\\passwordchangerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\dtos\\request\\passwordchangerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\infrastructure\\persistence\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\infrastructure\\command\\passwordresetcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\command\\passwordresetcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\infrastructure\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\interfaces\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Migrations\\20241024161651_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20241024161651_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\interfaces\\service\\ipasswordresetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\service\\ipasswordresetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\interfaces\\query\\iuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\query\\iuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\automapper\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\automapper\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\dtos\\request\\userupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\dtos\\request\\userupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\interfaces\\query\\ipasswordresetquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\query\\ipasswordresetquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\interfaces\\command\\ipasswordresetcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\command\\ipasswordresetcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\validations\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\validations\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\application\\exceptions\\inactiveuserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AC9F1F-2D8F-4BB9-B47B-8613031509C9}|Application\\Application.csproj|solutionrelative:application\\exceptions\\inactiveuserexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Migrations\\20241024181223_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3418625-2C62-48EE-8173-EA91714C5DE2}|Infrastructure\\Infrastructure.csproj|solutionrelative:Infrastructure\\Migrations\\20241024181223_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RefreshTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\UseCases\\AuthServices\\RefreshTokenService.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\AuthServices\\RefreshTokenService.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\UseCases\\AuthServices\\RefreshTokenService.cs",
+              "RelativeToolTip": "Application\\UseCases\\AuthServices\\RefreshTokenService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwEEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:39:27.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\UseCases\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\UserService.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\UseCases\\UserService.cs",
+              "RelativeToolTip": "Application\\UseCases\\UserService.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAgwI0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:54:44.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignOutService.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\UseCases\\AuthServices\\SignOutService.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\AuthServices\\SignOutService.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\UseCases\\AuthServices\\SignOutService.cs",
+              "RelativeToolTip": "Application\\UseCases\\AuthServices\\SignOutService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:38:33.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\UseCases\\AuthServices\\RegisterUserService.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\AuthServices\\RegisterUserService.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\UseCases\\AuthServices\\RegisterUserService.cs",
+              "RelativeToolTip": "Application\\UseCases\\AuthServices\\RegisterUserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:39:21.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\UseCases\\AuthServices\\LoginService.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\AuthServices\\LoginService.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\UseCases\\AuthServices\\LoginService.cs",
+              "RelativeToolTip": "Application\\UseCases\\AuthServices\\LoginService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:44:55.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RefreshTokenQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Query\\RefreshTokenQuery.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Query\\RefreshTokenQuery.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Query\\RefreshTokenQuery.cs",
+              "RelativeToolTip": "Infrastructure\\Query\\RefreshTokenQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:55:08.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CryptographyService.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\UseCases\\AuthServices\\CryptographyService.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\AuthServices\\CryptographyService.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\UseCases\\AuthServices\\CryptographyService.cs",
+              "RelativeToolTip": "Application\\UseCases\\AuthServices\\CryptographyService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:45:21.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\AuthMicroservice\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\AuthMicroservice\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthMicroservice\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAI8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:40:09.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\AuthMicroservice\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\AuthMicroservice\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AuthMicroservice\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAFYAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:52:02.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordResetService.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\UseCases\\AuthServices\\PasswordResetService.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\AuthServices\\PasswordResetService.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\UseCases\\AuthServices\\PasswordResetService.cs",
+              "RelativeToolTip": "Application\\UseCases\\AuthServices\\PasswordResetService.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAG8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:43:38.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\AuthMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "AuthMicroservice\\Program.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\AuthMicroservice\\Program.cs",
+              "RelativeToolTip": "AuthMicroservice\\Program.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:25:44.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PasswordResetQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Query\\PasswordResetQuery.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Query\\PasswordResetQuery.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Query\\PasswordResetQuery.cs",
+              "RelativeToolTip": "Infrastructure\\Query\\PasswordResetQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:04:38.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Query\\UserQuery.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Query\\UserQuery.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Query\\UserQuery.cs",
+              "RelativeToolTip": "Infrastructure\\Query\\UserQuery.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:57:05.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRefreshTokenQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Interfaces\\Query\\IRefreshTokenQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Query\\IRefreshTokenQuery.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Interfaces\\Query\\IRefreshTokenQuery.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Query\\IRefreshTokenQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:57:04.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\AuthMicroservice\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AuthMicroservice\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\AuthMicroservice\\appsettings.Development.json",
+              "RelativeToolTip": "AuthMicroservice\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T01:00:42.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Seeder\\AdminSeeder.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Seeder\\AdminSeeder.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Seeder\\AdminSeeder.cs",
+              "RelativeToolTip": "Infrastructure\\Seeder\\AdminSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:02:31.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:21:59.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Domain\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Domain\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "Domain\\Models\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:52:47.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PasswordChangeRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Validations\\PasswordChangeRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validations\\PasswordChangeRequestValidator.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Validations\\PasswordChangeRequestValidator.cs",
+              "RelativeToolTip": "Application\\Validations\\PasswordChangeRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:19:51.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RefreshTokenRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Validations\\RefreshTokenRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validations\\RefreshTokenRequestValidator.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Validations\\RefreshTokenRequestValidator.cs",
+              "RelativeToolTip": "Application\\Validations\\RefreshTokenRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:22:55.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Validations\\UserRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validations\\UserRequestValidator.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Validations\\UserRequestValidator.cs",
+              "RelativeToolTip": "Application\\Validations\\UserRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:20:57.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SignOutRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Validations\\SignOutRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validations\\SignOutRequestValidator.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Validations\\SignOutRequestValidator.cs",
+              "RelativeToolTip": "Application\\Validations\\SignOutRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:22:42.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserUpdateRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Validations\\UserUpdateRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validations\\UserUpdateRequestValidator.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Validations\\UserUpdateRequestValidator.cs",
+              "RelativeToolTip": "Application\\Validations\\UserUpdateRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:57:46.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Dtos\\Response\\UserResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Response\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Dtos\\Response\\UserResponse.cs",
+              "RelativeToolTip": "Application\\Dtos\\Response\\UserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:55:29.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PasswordChangeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Dtos\\Request\\PasswordChangeRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Request\\PasswordChangeRequest.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Dtos\\Request\\PasswordChangeRequest.cs",
+              "RelativeToolTip": "Application\\Dtos\\Request\\PasswordChangeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:24:56.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Persistence\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Persistence\\ApiDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:58:25.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PasswordResetCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Command\\PasswordResetCommand.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Command\\PasswordResetCommand.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Command\\PasswordResetCommand.cs",
+              "RelativeToolTip": "Infrastructure\\Command\\PasswordResetCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:47:11.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Jwt\\JwtService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Jwt\\JwtService.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Jwt\\JwtService.cs",
+              "RelativeToolTip": "Infrastructure\\Jwt\\JwtService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:24:52.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Interfaces\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Interfaces\\Service\\IUserService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T21:11:11.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AutoMapperConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\AutoMapper\\AutoMapperConfiguration.cs",
+              "RelativeDocumentMoniker": "Application\\AutoMapper\\AutoMapperConfiguration.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\AutoMapper\\AutoMapperConfiguration.cs",
+              "RelativeToolTip": "Application\\AutoMapper\\AutoMapperConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:54:12.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Dtos\\Request\\UserUpdateRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Request\\UserUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Dtos\\Request\\UserUpdateRequest.cs",
+              "RelativeToolTip": "Application\\Dtos\\Request\\UserUpdateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:52:50.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241024181223_init.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Migrations\\20241024181223_init.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241024181223_init.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Migrations\\20241024181223_init.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241024181223_init.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:12:23.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IPasswordResetService.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Interfaces\\Service\\IPasswordResetService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IPasswordResetService.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Interfaces\\Service\\IPasswordResetService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Service\\IPasswordResetService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:25:00.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Interfaces\\Query\\IUserQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Query\\IUserQuery.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Interfaces\\Query\\IUserQuery.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Query\\IUserQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:20:10.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241024161651_init.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Migrations\\20241024161651_init.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241024161651_init.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Infrastructure\\Migrations\\20241024161651_init.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241024161651_init.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:16:52.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IPasswordResetQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Interfaces\\Query\\IPasswordResetQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Query\\IPasswordResetQuery.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Interfaces\\Query\\IPasswordResetQuery.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Query\\IPasswordResetQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:08:34.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IPasswordResetCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Interfaces\\Command\\IPasswordResetCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Command\\IPasswordResetCommand.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Interfaces\\Command\\IPasswordResetCommand.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Command\\IPasswordResetCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:47:44.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Validations\\LoginRequestValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Validations\\LoginRequestValidator.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Validations\\LoginRequestValidator.cs",
+              "RelativeToolTip": "Application\\Validations\\LoginRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:25:13.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InactiveUserException.cs",
+              "DocumentMoniker": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Exceptions\\InactiveUserException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\InactiveUserException.cs",
+              "ToolTip": "C:\\Users\\ianga\\OneDrive\\Escritorio\\microservicio gabriel\\AuthMS-password_restet_by_mail\\Application\\Exceptions\\InactiveUserException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\InactiveUserException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:29:14.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

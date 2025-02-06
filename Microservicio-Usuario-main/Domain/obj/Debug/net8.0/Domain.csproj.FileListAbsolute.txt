@@ -1,0 +1,57 @@
+C:\Users\ianga\source\repos\AuthMicroservice\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\ianga\source\repos\AuthMicroservice\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\ianga\source\repos\AuthMicroservice\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\ianga\source\repos\AuthMicroservice\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianga\source\repos\AuthMicroservice\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ianga\source\repos\AuthMicroservice\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\ianga\source\repos\AuthMicroservice\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ianga\source\repos\AuthMicroservice\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\ianga\source\repos\AuthMicroservice\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\ianga\source\repos\AuthMicroservice\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\ianga\source\repos\AuthMicroservice\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\ianga\source\repos\AuthMicroservice\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Ivan\Desktop\AuthMS-main (último)\AuthMS-main\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Ivan\Desktop\AuthMS-main (último)\AuthMS-main\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Ivan\Desktop\AuthMS-main (último)\AuthMS-main\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Ivan\Desktop\AuthMS-main (último)\AuthMS-main\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\AuthMS-main (último)\AuthMS-main\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\AuthMS-main (último)\AuthMS-main\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\AuthMS-main (último)\AuthMS-main\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\AuthMS-main (último)\AuthMS-main\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Ivan\Desktop\AuthMS-main (último)\AuthMS-main\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Ivan\Desktop\AuthMS-main (último)\AuthMS-main\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Ivan\Desktop\AuthMS-main (último)\AuthMS-main\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Ivan\Desktop\AuthMS-main (último)\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Ivan\Desktop\AuthMS-main (último)\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Ivan\Desktop\AuthMS-main (último)\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Ivan\Desktop\AuthMS-main (último)\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\AuthMS-main (último)\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\AuthMS-main (último)\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\AuthMS-main (último)\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\AuthMS-main (último)\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Ivan\Desktop\AuthMS-main (último)\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Ivan\Desktop\AuthMS-main (último)\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Ivan\Desktop\AuthMS-main (último)\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Ivan\Desktop\AuthMS-main\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Ivan\Desktop\AuthMS-main\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Ivan\Desktop\AuthMS-main\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Ivan\Desktop\AuthMS-main\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\AuthMS-main\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\AuthMS-main\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\AuthMS-main\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\AuthMS-main\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Ivan\Desktop\AuthMS-main\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Ivan\Desktop\AuthMS-main\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Ivan\Desktop\AuthMS-main\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\ianga\OneDrive\Escritorio\microservicio gabriel\AuthMS-password_restet_by_mail\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\ianga\OneDrive\Escritorio\microservicio gabriel\AuthMS-password_restet_by_mail\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\ianga\OneDrive\Escritorio\microservicio gabriel\AuthMS-password_restet_by_mail\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\ianga\OneDrive\Escritorio\microservicio gabriel\AuthMS-password_restet_by_mail\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianga\OneDrive\Escritorio\microservicio gabriel\AuthMS-password_restet_by_mail\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\ianga\OneDrive\Escritorio\microservicio gabriel\AuthMS-password_restet_by_mail\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\ianga\OneDrive\Escritorio\microservicio gabriel\AuthMS-password_restet_by_mail\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ianga\OneDrive\Escritorio\microservicio gabriel\AuthMS-password_restet_by_mail\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\ianga\OneDrive\Escritorio\microservicio gabriel\AuthMS-password_restet_by_mail\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\ianga\OneDrive\Escritorio\microservicio gabriel\AuthMS-password_restet_by_mail\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\ianga\OneDrive\Escritorio\microservicio gabriel\AuthMS-password_restet_by_mail\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\ianga\OneDrive\Escritorio\microservicio gabriel\AuthMS-password_restet_by_mail\Domain\obj\Debug\net8.0\ref\Domain.dll
